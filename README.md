@@ -7,5 +7,5 @@ npm install -g parcel-bundler
 To start the server use
 
 ```sh
-parcel index.html
+npm start
 ```
